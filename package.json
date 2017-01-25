@@ -1,14 +1,13 @@
 {
-  "name": "named",
-  "description": "DNS server library for node.js",
+  "name": "fuge-named",
+  "description": "DNS server library for fuge, forked from node-named",
   "version": "0.0.1",
-  "author": "trevoro <trevoro@gmail.com>",
+  "author": "Peter Elger (https://github.com/pelger)",
   "contributors": [
-    "Mark Cavage"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/trevoro/node-named.git"
+    "url": "git://github.com/apparatus/fuge-named.git"
   },
   "main": "lib/index.js",
   "engines": {
